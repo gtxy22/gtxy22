@@ -2,13 +2,13 @@
 <Container version="2">
   <Name>aria2pro3</Name>
   <Repository>superng6/aria2:webui-latest</Repository>
-  <Registry>https://hub.docker.com/r/p3terx/aria2-pro/</Registry>
+  <Registry>https://hub.docker.com/r/superng6/aria2</Registry>
   <Network>br0</Network>
   <MyIP>10.10.10.40</MyIP>
   <Shell>bash</Shell>
   <Privileged>true</Privileged>
   <Support>https://hub.docker.com/r/p3terx/aria2-pro/</Support>
-  <Project/>
+  <Project>https://github.com/SuperNG6/docker-aria2</Project>
   <Overview>&#x662F;aria2pro&#xFF0C;superng6&#x57FA;&#x7840;&#x4E0A;&#x6539;&#x7F16;&#x800C;&#x6765;&#xD;
 &#x914D;&#x7F6E;&#x66F4;&#x52A0;&#x6E05;&#x6670;&#xD;
 &#x81EA;&#x5E26;web&#xD;
@@ -20,7 +20,7 @@ IP&#x81EA;&#x5DF1;&#x6539;</Overview>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1628834649</DateInstalled>
+  <DateInstalled>1628834923</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Description>&#x662F;aria2pro&#xFF0C;superng6&#x57FA;&#x7840;&#x4E0A;&#x6539;&#x7F16;&#x800C;&#x6765;&#xD;
